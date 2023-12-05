@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>I like cheese very much :D</title>
+    <style>
+        body {
+            font-family: monospace;
+        }
+
+        header {
+        }
+
+        img {
+            display: block;
+            margin: auto;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>I like cheese very much :D</h1>
+    </header>
+
+    <img src="https://cdn.spacetelescope.org/archives/images/screen/heic2105a.jpg" alt="Star Image" width="200">
+
+</body>
+</html>
