@@ -8,10 +8,6 @@
         body {
             font-family: monospace;
         }
-
-        header {
-        }
-
         img {
             display: block;
             margin: auto;
@@ -23,8 +19,6 @@
     <header>
         <h1>I like cheese very much :D</h1>
     </header>
-
     <img src="https://cdn.spacetelescope.org/archives/images/screen/heic2105a.jpg" alt="Star Image" width="200">
-
 </body>
 </html>
