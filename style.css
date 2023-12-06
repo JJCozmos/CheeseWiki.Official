@@ -1,0 +1,15 @@
+body {
+  background: white;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  color: #ffec00;
+  font-size: 50;
+  font-family: monospace;
+}
+img {
+  text-align: right;
+}
