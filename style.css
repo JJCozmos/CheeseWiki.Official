@@ -7,11 +7,14 @@ p {
 h1 {
   font-weight: bold;
   color: #ffec00;
-  font-size: 50;
   font-family: monospace;
+}
+h2 {
+  font-size: 20px;
+  color: #ff9604;
 }
 img {
   text-align: right;
-  width: 200;
-  height: 200;
+  width: 50px;
+  height: 50px;
 }
