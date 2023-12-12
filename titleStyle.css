@@ -1,0 +1,22 @@
+body {
+  background: white;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  color: #ffdf00;
+  font-family: cursive; 
+}
+  img {
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    margin-left: 160px;
+  }
+h2 {
+  font-size: 13px;
+  color: #ffaa00;
+}
