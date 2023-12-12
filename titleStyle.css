@@ -6,6 +6,7 @@ p {
 }
 h1 {
   font-weight: bold;
+  text-align: center;
   color: #ffdf00;
   font-family: cursive; 
 }
@@ -13,7 +14,7 @@ h1 {
     text-align: center;
     width: 200px;
     height: 200px;
-    margin-left: 160px;
+    margin-left: 500px;
   }
 h2 {
   font-size: 13px;
