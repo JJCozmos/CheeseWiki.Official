@@ -1,5 +1,5 @@
 body {
-  background: rgba(210, 193, 140, 0.29)
+  background: rgba(210, 193, 140, 0.29);
 }
 p {
   color: black;
@@ -19,4 +19,5 @@ h1 {
 h2 {
   font-size: 13px;
   color: #ffaa00;
+  text-align: center;
 }
