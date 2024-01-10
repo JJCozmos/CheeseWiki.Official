@@ -5,9 +5,13 @@ p {
   color: black;
 }
 h1 {
+  border-color: yellow;
+  border-width: 5px;
+  border-style:dotted;
   font-weight: bold;
-  color: #ffec00;
-  font-family: monospace;
+  text-align: center;
+  color: #ffdf00;
+  font-family: cursive; 
 }
 h2 {
   font-size: 20px;
@@ -19,8 +23,10 @@ h3 {
   font-family: monospace;
 }
 img {
+  background-origin:inherit;
+  background-color: yellow; 
+  border-radius:100px;
   text-align: right;
   width: 200px;
   height: 200px;
-   background-color: rgba(0, 0, 0, 0.07)
 }
