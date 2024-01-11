@@ -5,16 +5,22 @@ p {
   color: black;
 }
 h1 {
+  border-color: yellow;
+  border-width: 5px;
+  border-style:dotted;
   font-weight: bold;
   text-align: center;
   color: #ffdf00;
   font-family: cursive; 
 }
   img {
+    background-origin:inherit;
+    background-color: yellow; 
+    border-radius:100px;
     text-align: center;
     width: 200px;
     height: 200px;
-    margin-left: 525px;
+    margin-left: 160px;
   }
 h2 {
   font-size: 13px;
