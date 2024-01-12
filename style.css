@@ -5,11 +5,6 @@ p {
   color: black;
 }
 h1 {
-  font-weight: bold;
-  color: #ffec00;
-  font-family: monospace;
-}
-h2 {
   font-size: 20px;
   color: #ff9604;
   font-family: monospace;
