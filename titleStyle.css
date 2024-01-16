@@ -18,6 +18,8 @@ h1 {
     width: 200px;
     height: 200px;
     margin-left: 515px;
+    position: relative;
+    cursor: pointer;
   }
 h2 {
   font-size: 13px;
