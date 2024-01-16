@@ -6,7 +6,23 @@
   <body>
     <h1>CHEESE</h1>
     <h2><a  href="index.html">Brie-th taking Dishes!</a>‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a  href="https://studio.code.org/projects/applab/jYPCm4S6E5UXlByO4keV1dBXe4k-Al6l4qLnIKcid3o">You "Feta" Play This Game!</a>‎‎</h2>
-    <img src="cheese_PNG25307-removebg-preview.png">‎ ‎ ‎ ‎ ‎ 
+  <img id="cheese" src="cheese_PNG25307-removebg-preview.png">
+
+
+  <script>
+    cheese.onclick = function() {
+      let start = Date.now();
+
+      let timer = setInterval(function() {
+        let timePassed = Date.now() - start;
+
+        cheese.style.left = timePassed / 5 + 'px';
+
+        if (timePassed > 5000) clearInterval(timer);
+
+      }, 20);
+    }
+  </script> ‎ 
     <h2><a  href="recipes.html">Some Deli-cious Cheese Recipes!</a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a  href="info.html">‎Why Whey-t For More?</a></h2>
     <h1>WIKI</h1>
   </body>
